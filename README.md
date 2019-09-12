@@ -1,5 +1,5 @@
  # <center>ATTENTION </center>
-### *Il est fortement recommandé pour vous faciliter la vie de lire le fichier README.md avant de commencer à utilisé les documents*
+### *Il est fortement recommandé pour vous faciliter la vie de lire le fichier README.md avant de commencer à utiliser les documents*
 
 ********************************
 
