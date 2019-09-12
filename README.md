@@ -45,6 +45,8 @@ Cette **documentation** et les versions **ultérieures** sont laissées en *libr
 
 La documentation sera présentée sous forme d'un document reprenant la syntaxe globable du **Markdown** et un autre document reprenant les divers *termes* ou *symboles* à utiliser pour réaliser votre premier code en **Markdown**. Les documents auront comme nom __*Syntaxe*__ pour *les termes* et *les symboles*, et comme nom __*Postit*__ pour la *syntaxe*.
 
+Le langage utilisé est le **Markdown** et vous pouvez trouvé le **lien** vers les consignes [*ici*](https://github.com/becodeorg/CRL-Woods-2.15/blob/master/Parcours/01-Prairie/4.Markdown/2.exercice-markdown-groupe.md)
+
 *********************************
 
 ## **Liens**
