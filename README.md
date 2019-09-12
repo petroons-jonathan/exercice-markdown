@@ -24,7 +24,7 @@ Dans le cadre la formation __*BeCode*__ il nous a été demandé de réaliser un
 
 ![Logo](logo.png)
 
-Cette **documentation** et les versions **ultérieures** sont laissées en libre-access et se doivent de le rester. Toute utilisation à but *lucratif* est donc **interdite**. 
+Cette **documentation** et les versions **ultérieures** sont laissées en *libre-access* et ont été conçues à but **pédagogique**. Toute utilisation à but *lucratif* est donc **interdite**. Cette documentation a été rédigée par les *Octocats* au bout de leur **troisième** jour de formation et s'étoffera au *fur et à mesure* de l'année. Les **logs** suivront aussi selon les *mis à jour* à apporter.
 
 ********************************
 
@@ -41,6 +41,11 @@ Cette **documentation** et les versions **ultérieures** sont laissées en libre
     Version à venir __*prochainement*__.
 
 *********************************
+
+## **Détails** 
+
+La documentation sera présentée sous forme d'un document reprenant la syntaxe globable du **Markdown** et un autre document reprenant les divers *termes* ou *symboles* à utiliser pour réaliser votre premier code en **Markdown**. Les documents auront comme nom __*Syntaxe*__ pour *les termes* et *les symboles*, et comme nom __*Postit*__ pour la *syntaxe*.
+
 
 
 
