@@ -4,15 +4,14 @@
 ********************************
 
 #### Ce **Projet** a été réalisé dans le cadre de la formation __*BeCode*__ par les *Octocats* suivant ;
-* Alessandro Denys 
-    * Responsable Listing
+* *Alessandro* **Denys**
+    * _Responsable Listing_
         
+* *Quentin* **De Paola**
+    * _Responsable Syntaxe_
 
-* Quentin De Paola
-    * Responsable Syntaxe
-
-* Jonathan Petroons
-    * Responsable Texte
+* *Jonathan* **Petroons**
+    * _Responsable Texte_
 
 ********************************
 
