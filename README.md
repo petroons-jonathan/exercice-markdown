@@ -46,6 +46,31 @@ Cette **documentation** et les versions **ultérieures** sont laissées en *libr
 
 La documentation sera présentée sous forme d'un document reprenant la syntaxe globable du **Markdown** et un autre document reprenant les divers *termes* ou *symboles* à utiliser pour réaliser votre premier code en **Markdown**. Les documents auront comme nom __*Syntaxe*__ pour *les termes* et *les symboles*, et comme nom __*Postit*__ pour la *syntaxe*.
 
+*********************************
+
+## **Liens**
+
+* [Le lien vers le document **README**](https://github.com/petroons-jonathan/exercice-markdown/blob/master/README.md)
+
+* [Le lien vers le document **Syntaxe**](https://github.com/petroons-jonathan/exercice-markdown/blob/syntaxe/syntaxe.md)
+
+* [Le lien vers le document **Postit**]()
+
+
+*********************************
+
+## **Contact**
+
+Si vous désirez plus d'informations concernant le projet, une amélioration ou une faute d'orthographe remarquée, vous pouvez nous contacter grâce au lien suivant ;
+
+* [Alessandro **Denys**](https://github.com/alessdenys)
+        
+* [Quentin **De Paola**](https://github.com/quendepa)
+
+* [Jonathan **Petroons**](https://github.com/petroons-jonathan)
+
+
+
 
 
 
