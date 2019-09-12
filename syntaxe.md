@@ -63,4 +63,7 @@ explications (dans l'ordre)
  * "[]" crochets
  **************************
  ## __*liens vers les autres parties*__
+ * [readme](https://github.com/petroons-jonathan/exercice-markdown/blob/master/README.md)
+ * [postit](https://github.com/petroons-jonathan/exercice-markdown/tree/postit1)
+ * [syntaxe](https://github.com/petroons-jonathan/exercice-markdown/blob/syntaxe/syntaxe.md)
  
