@@ -55,7 +55,7 @@ Le langage utilisé est le **Markdown** et vous pouvez trouvé le **lien** vers 
 
 * [Le lien vers le document **Syntaxe**](https://github.com/petroons-jonathan/exercice-markdown/blob/syntaxe/syntaxe.md)
 
-* [Le lien vers le document **Postit**]()
+* [Le lien vers le document **Postit**](https://github.com/petroons-jonathan/exercice-markdown/blob/postit1/post/postit.md)
 
 
 *********************************
