@@ -1,9 +1,8 @@
- # <center>ATTENTION </center>
+ # ATTENTION
+ ![angry cat](tenor.gif)
 ### *Il est fortement recommandé pour vous faciliter la vie de lire le fichier README.md avant de commencer à utiliser les documents*
 
 ********************************
-
-![angry cat](tenor.gif)
 
 #### Ce **Projet** a été réalisé dans le cadre de la formation __*BeCode*__ par les *Octocats* suivant ;
 
@@ -68,6 +67,26 @@ Si vous désirez plus d'informations concernant le projet, une amélioration ou 
 * [Quentin **De Paola**](https://github.com/quendepa)
 
 * [Jonathan **Petroons**](https://github.com/petroons-jonathan)
+
+**********************************
+
+## **Mot de la fin**
+
+Il ne faut jamais avoir **peur** lorsque l'on voit un texte comme **celui-ci**
+
+`<script type="text/javascript">
+    alert("Hello!");
+</script>`
+
+il suffit de **s'accrocher** et tout devient *évident* avec le temps.
+
+N'oubliez jamais que :
+
+>Le savoir ça
+>se partage !
+
+![Level up](tenor1.gif)
+
 
 
 
