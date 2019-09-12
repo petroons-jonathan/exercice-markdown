@@ -1,10 +1,20 @@
-# **Important**
-### *Il est conseillé de lire le fichier README.md avant de commencer à utilisé les documents*
+# ATTENTION
+### *Il est fortement recommandé de lire le fichier README.md avant de commencer à utilisé les documents*
+
+********************************
 
 #### Ce **Projet** a été réalisé dans le cadre de la formation __*BeCode*__ par les *Octocats* suivant ;
-* Alessandro Denys
+* Alessandro Denys 
+    * Responsable Listing
+        
+
 * Quentin De Paola
+    * Responsable Syntaxe
+
 * Jonathan Petroons
+    * Responsable Texte
+
+********************************
 
 ## **Le Projet**
 
