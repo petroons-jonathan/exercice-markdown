@@ -1,4 +1,4 @@
-# <center>  __*qu'est ce que le markdown*__</center>
+# <center>  __*Qu'est ce que le markdown ?*__</center>
 Le markdown est un système __d’édition et de formatage__ de texte , il est a la fois une syntaxe et un script de conversion vers du  __html__ . L’avantage d’utiliser le markdown et pas directement le html est qu’il est beaucoup __plus simple a écrire__.
 
 __*Pour donner un exemple concret*__ : 
